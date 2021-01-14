@@ -1,0 +1,10 @@
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\bin\Debug\SalaryCalc.exe.config
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\bin\Debug\SalaryCalc.exe
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\bin\Debug\SalaryCalc.pdb
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.csprojAssemblyReference.cache
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.Form1.resources
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.Properties.Resources.resources
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.csproj.GenerateResource.cache
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.csproj.CoreCompileInputs.cache
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.exe
+D:\GitHub\WinForms\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.pdb
